@@ -1,0 +1,8 @@
+{
+  "name": "TikTokAI Pro - Nền tảng AI Video Marketing Đỉnh Cao",
+  "description": "Tạo video TikTok, Reels, Shorts viral chỉ trong vài giây với sức mạnh từ Gemini 3.1 & Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
